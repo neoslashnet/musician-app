@@ -1,4 +1,4 @@
-# band-app
+# musician-app
 NodeJS / React sample app
 
 
